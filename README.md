@@ -55,11 +55,11 @@ In gitbash after you have activated your dev environment, install the following:
 The images below show the different types of dataframes and outputs that should be a result from running the code in the MachineLearning Trading Bot application.
 
 
-![](./images/strategy_re)
+![](./images/strategy_returns.PNG)
 
-![](./images/)
+![](./images/Actual_vs_Strategy_1.PNG)
 
-![](./images/)
+![](./images/Actual_vs_Strategy_2.PNG)
 
 
 ## C
