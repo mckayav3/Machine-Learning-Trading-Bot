@@ -62,7 +62,7 @@ The images below show the different types of dataframes and outputs that should 
 ![](./images/Actual_vs_Strategy_2.PNG)
 
 
-## C
+
 
 ---
 
